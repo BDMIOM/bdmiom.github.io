@@ -1,3 +1,5 @@
+## The 1st International Workshop on Big Data for Marketing Intellegence and Operation Management (BDMIOM 2018)
+
 ### Call for Papers
 Nowadays in big data era, in order to acquire, keep and satisfy customers in scale, sales and marketing is evolving from relationship based targeting only to adding more advanced marketing intelligence. Search engine optimization (SEO) and marketing, email marketing, and mobile is where big data is having the largest impact on their marketing programs today. Digital traces of online activities provide enterprises a huge amount of profile data. Customer relationship management (CRM) tools are also applying more features based on artificial intelligence. Therefore, businesses are able to discover, understand, engage and convert their consumers in a completely different way. Meanwhile, data protection and privacy issues are always the top priority in customer obsession, especially after General Data Protection Regulation (GDPR) was implemented in 2018. Furthermore, when consume the data, ethic problems should be also considered in the new era of marketing.
  

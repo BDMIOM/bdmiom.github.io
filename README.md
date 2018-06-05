@@ -24,13 +24,13 @@ The scopes of this workshop include the practical problems in marketing, as well
 ### Paper Submission
 Please submit a full-length paper (up to **10 page IEEE 2-column format**) through the online submission system.
 
-[Paper Submission Page]<https://wi-lab.com/cyberchair/2018/bigdata18/index.php> 
+[Paper Submission Page](https://wi-lab.com/cyberchair/2018/bigdata18/index.php)
 
 Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below). 
 
 **Formatting Instructions**
-8.5" x 11" ([DOC]<ftp://pubftp.computer.org/press/outgoing/proceedings/instruct8.5x11x2.doc>, [PDF]<ftp://pubftp.computer.org/press/outgoing/proceedings/instruct8.5x11x2.pdf>) 
-[LaTex Formatting Macros]<ftp://pubftp.computer.org/Press/Outgoing/proceedings/IEEE_CS_Latex8.5x11x2.zip>
+8.5" x 11" ([DOC](ftp://pubftp.computer.org/press/outgoing/proceedings/instruct8.5x11x2.doc), [PDF](ftp://pubftp.computer.org/press/outgoing/proceedings/instruct8.5x11x2.pdf)) 
+[LaTex Formatting Macros](ftp://pubftp.computer.org/Press/Outgoing/proceedings/IEEE_CS_Latex8.5x11x2.zip)
 
 ### Important dates
 Oct 10, 2018: Due date for full workshop papers submission
@@ -39,9 +39,9 @@ Nov 15, 2018: Camera-ready of accepted papers
 Dec 10-13, 2018: Workshops
 
 ### Program Chairs
-- [Huaiye Zhang]<huaz@microsoft.com>, Senior Data Scientist, Microsoft
-- [Yiwen Zhang]<yiwzhan@microsoft.com>, Senior Data Scientist, Microsoft
-- [Wutao Wei]<wutwei@microsoft.com>, Data Scientist, Microsoft
+- [Huaiye Zhang](huaz@microsoft.com), Senior Data Scientist, Microsoft
+- [Yiwen Zhang](yiwzhan@microsoft.com), Senior Data Scientist, Microsoft
+- [Wutao Wei](wutwei@microsoft.com), Data Scientist, Microsoft
 
 ### Program Committee Members:
 - Joseph Deck, Director of Market Science and Innovation, Microsoft
@@ -54,6 +54,6 @@ Dec 10-13, 2018: Workshops
 - Jingfen Zhang, Research Scientist, Amazon 
 
 ### Primary Contact:
-- [BDMIOM Commitee]<bdmiom@outlook.com>
+- [BDMIOM Commitee](bdmiom@outlook.com)
 
 

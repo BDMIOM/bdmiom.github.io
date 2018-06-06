@@ -1,4 +1,6 @@
-## The 1st International Workshop on Big Data for Marketing Intellegence and Operation Management (BDMIOM 2018)
+<span font-size: 4em;">
+The 1st International Workshop on Big Data for Marketing Intellegence and Operation Management (BDMIOM 2018)</span>
+
 
 ### Location: Seattle, Washington, USA
 

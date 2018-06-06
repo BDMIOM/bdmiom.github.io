@@ -39,9 +39,9 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 - Dec 10-13, 2018: Workshops
 
 ### Program Chairs
-- Huaiye Zhang<huaz@microsoft.com>, Senior Data Scientist, Microsoft
-- Yiwen Zhang<yiwzhan@microsoft.com>, Senior Data Scientist, Microsoft
-- Wutao Wei<wutwei@microsoft.com>, Data Scientist, Microsoft
+- Huaiye Zhang <huaz@microsoft.com>, Senior Data Scientist, Microsoft
+- Yiwen Zhang <yiwzhan@microsoft.com>, Senior Data Scientist, Microsoft
+- Wutao Wei <wutwei@microsoft.com>, Data Scientist, Microsoft
 
 ### Program Committee Members:
 - Joseph Deck, Director of Market Science and Innovation, Microsoft

@@ -1,4 +1,4 @@
-<span font-size: 4em;">
+<span style="font-size: 4em;">
 The 1st International Workshop on Big Data for Marketing Intellegence and Operation Management (BDMIOM 2018)</span>
 
 

@@ -57,6 +57,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 - Wei Sun, Assistant Professor, University of Miami School of Business Administration
 - Xiao Yang, Research Scientist, Facebook
 - Jingfen Zhang, Research Scientist, Amazon 
+- Le Zhang, Data Scientist, Microsoft
 
 ### Primary Contact:
 - BDMIOM Commitee <bdmiom@outlook.com>

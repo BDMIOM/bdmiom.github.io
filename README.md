@@ -1,6 +1,8 @@
 <span style="font-size: 2em;">
 The 1st International Workshop on Big Data for Marketing Intellegence and Operation Management (BDMIOM 2018)</span>
 
+<span style="font-size: 1em;">In conjunction with 2018 IEEE International Conference on Big Data (IEEE BigData 2018)</span>
+
 <span style="font-size: 1em;">Location: Seattle, Washington, USA</span>
 
 <span style="font-size: 1em;">Time: Dec 10-13, 2018</span>
@@ -49,12 +51,13 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 - Wutao Wei <wutwei@microsoft.com>, Data Scientist, Microsoft
 
 ### Program Committee Members:
+- Xiongzhi Chen, Assistant Professor, Washington State University
 - Joseph Deck, Director of Market Science and Innovation, Microsoft
-- Jiexun Li, Assistant Professor, Western Washington University, College of Business & Economics
-- Xingbo Li, Assistant Professor, University of Louisville School of Business
+- Jiexun Li, Assistant Professor, Western Washington University
+- Xingbo Li, Assistant Professor, University of Louisville
 - Ying Lu, Data Scientist, Google
 - Gaurav Munjal, Manager of Data Science, Microsoft
-- Wei Sun, Assistant Professor, University of Miami School of Business Administration
+- Wei Sun, Assistant Professor, University of Miami
 - Xiao Yang, Research Scientist, Facebook
 - Jingfen Zhang, Research Scientist, Amazon 
 - Le Zhang, Data Scientist, Microsoft

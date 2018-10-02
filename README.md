@@ -36,8 +36,12 @@ Please submit a full-length paper (up to **10 page IEEE 2-column format**) throu
 Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below). 
 
 **Formatting Instructions**
-8.5" x 11" ([DOC](ftp://pubftp.computer.org/press/outgoing/proceedings/instruct8.5x11x2.doc), [PDF](ftp://pubftp.computer.org/press/outgoing/proceedings/instruct8.5x11x2.pdf)) 
-[LaTex Formatting Macros](ftp://pubftp.computer.org/Press/Outgoing/proceedings/IEEE_CS_Latex8.5x11x2.zip)
+
+Please refer to 
+[Main Conference Site](http://cci.drexel.edu/bigdata/bigdata2018/CallPapers.html) and [Template Download] (https://www.ieee.org/conferences/publishing/templates.html)
+
+for the templates and submission requirement.
+
 
 ### Important dates
 - Oct 10, 2018: Due date for full workshop papers submission
@@ -57,6 +61,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 - Xingbo Li, Assistant Professor, University of Louisville
 - Ying Lu, Data Scientist, Google
 - Gaurav Munjal, Manager of Data Science, Microsoft
+- Xiaoqi Ren, Google
 - Wei Sun, Assistant Professor, University of Miami
 - Xiao Yang, Research Scientist, Facebook
 - Jingfen Zhang, Research Scientist, Amazon 

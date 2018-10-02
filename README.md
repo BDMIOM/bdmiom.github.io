@@ -38,7 +38,7 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 **Formatting Instructions**
 
 Please refer to 
-[Main Conference Site](http://cci.drexel.edu/bigdata/bigdata2018/CallPapers.html) and [Template Download] (https://www.ieee.org/conferences/publishing/templates.html)
+[Main Conference Site](http://cci.drexel.edu/bigdata/bigdata2018/CallPapers.html) and [Template Download](https://www.ieee.org/conferences/publishing/templates.html)
 
 for the templates and submission requirement.
 

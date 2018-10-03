@@ -62,6 +62,7 @@ for the templates and submission requirement.
 - Ying Lu, Data Scientist, Google
 - Gaurav Munjal, Manager of Data Science, Microsoft
 - Xiaoqi Ren, Google
+- Jiankai Sun, The Ohio State University
 - Wei Sun, Assistant Professor, University of Miami
 - Xiao Yang, Research Scientist, Facebook
 - Jingfen Zhang, Research Scientist, Amazon 

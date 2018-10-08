@@ -46,7 +46,7 @@ for the templates and submission requirement.
 
 
 ### Important dates
-- ~~Oct 10, 2018~~ Oct 24, 2018: Due date for full workshop papers submission
+- ~~Oct 10, 2018~~ <span style="color:red"> *Oct 24, 2018* </span>: Due date for full workshop papers submission
 - ~~Nov 1, 2018~~ Nov 8, 2018: Notification of paper acceptance to authors
 - Nov 15, 2018: Camera-ready of accepted papers
 - Dec 10-13, 2018: Workshops

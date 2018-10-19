@@ -69,6 +69,7 @@ for the templates and submission requirement.
 - Xiao Yang, Research Scientist, Facebook
 - Jingfen Zhang, Research Scientist, Amazon 
 - Le Zhang, Data Scientist, Microsoft
+- Bingrou Zhou, Data Scientist, Amazon
 
 ### Primary Contact:
 - BDMIOM Commitee <bdmiom@outlook.com>

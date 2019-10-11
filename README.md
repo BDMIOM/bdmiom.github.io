@@ -47,7 +47,7 @@ for the templates and submission requirement.
 
 
 ### Important dates
-- ~~Oct 10, 2019~~ <span style="color:red"> *Nov 1, 2019* </span> : Due date for full workshop papers submission <span style="color:red"> (Deadline Extended) </span>(Deadline Extended)
+- ~~Oct 10, 2019~~ <span style="color:red"> *Nov 1, 2019* </span> : Due date for full workshop papers submission <span style="color:red"> *(Deadline Extended)* </span>
 - ~~Nov 1, 2019~~  <span style="color:red"> *Nov 8, 2019* </span> : Notification of paper acceptance to authors
 - Nov 15, 2019: Camera-ready of accepted papers
 - Dec 9-12, 2019: Workshops
